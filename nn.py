@@ -1,7 +1,7 @@
 # -*-coding:utf8-*-
 import numpy as np
-import util as util
 
+import util as util
 
 datatr, labeltr, datate, labelte = util.load_CIFAR10()
 
